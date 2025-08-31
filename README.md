@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**SB1501/SB1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 Learning basic data science fundamentals, studying the ins-and-outs of Github and learning comprehensive network fundamentals via some brilliant textbooks.
 
@@ -26,5 +21,3 @@ sabunting@icloud.com
 
 - ⚡ Fun fact: ...
 I created this repository and will be creating a simple portfolio website via this repo following the Github for Dummies textbook by Sarah Guthals. Quite excited to see where it goes! 
-
--->
