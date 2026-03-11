@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
-Learning basic data science fundamentals, studying the ins-and-outs of Github and learning comprehensive network fundamentals via some brilliant textbooks.
+The Mindful Check-In iOS Wellbeing App. Getting my own porftolio / update website off the ground.
 
 
 - 🌱 I’m currently learning ...
-About to embark on the third and final year of a work based apprenticeship at NWRC in Derry/Londonderry in Software Development as an HLA. As well as a number of personal projects including putting together some Udemy courses.
+Swift / SwiftUI, AWS Cloud Practitioner, Dynatrace Associate certifications. Just completed a course on Django framework. Dabbling in Node.js / Tailwind CSS and Vercel as a platform to deploy my portfolio site. 
+
 
 - 👯 I’m looking to collaborate on ...
 Anything that I can add value to as a beginner!
@@ -17,7 +18,4 @@ Any tips, tricks or best practices (what did you wish you knew when you were beg
 How the current learning is going and existing projects / practice attempts
 
 - 📫 How to reach me: ...
-sabunting@icloud.com
-
-- ⚡ Fun fact: ...
-I created this repository and will be creating a simple portfolio website via this repo following the Github for Dummies textbook by Sarah Guthals. Quite excited to see where it goes! 
+sabunting@icloud.com / shanebunting.dev 
